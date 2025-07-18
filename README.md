@@ -13,7 +13,7 @@ una aplicacion web impulsada por paddlepaddle ocr para el reconocimiento y extra
 
 ## Documentation
 
-[Documentacion del proyecto](https://linktodocumentation)
+[Documentacion del proyecto](https://github.com/lulucoshan/campos-INE-extraccion-con-OCR/blob/main/documentaci%C3%B3n%20proyecto%20ocr.pdf)
 
 
 ## Instalación
