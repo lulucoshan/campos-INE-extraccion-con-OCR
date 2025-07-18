@@ -1,0 +1,24 @@
+# Archivos de dependencias de Python
+ocrservice/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.venv.bak/
+**/lib
+
+# Archivos de logs o temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+#ignorar node_modules
+**/node_modules/
+
